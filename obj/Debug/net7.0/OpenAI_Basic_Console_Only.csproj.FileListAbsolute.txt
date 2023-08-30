@@ -1,0 +1,17 @@
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\bin\Debug\net7.0\OpenAI_Basic_Console_Only.exe
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\bin\Debug\net7.0\OpenAI_Basic_Console_Only.deps.json
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\bin\Debug\net7.0\OpenAI_Basic_Console_Only.runtimeconfig.json
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\bin\Debug\net7.0\OpenAI_Basic_Console_Only.dll
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\bin\Debug\net7.0\OpenAI_Basic_Console_Only.pdb
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.csproj.AssemblyReference.cache
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.AssemblyInfoInputs.cache
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.AssemblyInfo.cs
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.csproj.CoreCompileInputs.cache
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.csproj.CopyComplete
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.dll
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\refint\OpenAI_Basic_Console_Only.dll
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.pdb
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\OpenAI_Basic_Console_Only.genruntimeconfig.cache
+C:\Users\gokar\OneDrive\Repos\Temp\OpenAI_Basic_Console_Only\obj\Debug\net7.0\ref\OpenAI_Basic_Console_Only.dll
